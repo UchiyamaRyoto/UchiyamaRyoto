@@ -18,17 +18,17 @@
 <tr>
 <td width="200" align="center">
 <img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<br><strong>Full Stack Web</strong>
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+### 👋 **Hi, I'm Uchiyama!**
+🚀 **Full Stack Developer** focused on web app architecture & design
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+💼 **Focus:** Laravel, Next.js, React, Tailwind CSS 
+📚 **Learning:** AWS, Web Push, CI/CD, DDD  
+🎯 **Mission:** Build clean, scalable, and meaningful products  
 
 </td>
 </tr>
@@ -52,26 +52,26 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
+### 🧠 **Frontend**
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+### 🌐 **Infrastructure / Hosting**
+<img src="https://skillicons.dev/icons?i=aws,vercel,docker,nginx,supabase" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,swagger" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 
 ### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+<img src="https://skillicons.dev/icons?i=figma,canva" />
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=laravel,next,react,js,php,ts,html,css,python" />
 
 </td>
 </tr>
