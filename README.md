@@ -1,102 +1,121 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20World&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there!+I'm+Uchiyama+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+Beautiful+Web+%26+Mobile+Apps+%E2%9C%A8" alt="Typing Animation" />
+</div>
+
+## 🌟 About Me
+
+<div align="center">
+<table border="0">
+<tr>
+<td width="300" align="center" valign="top">
+  <img src="https://github.com/user-attachments/assets/animated-coding.gif" width="250" alt="Coding Animation" />
+  <br>
+  <em>"Code is poetry in motion"</em>
+</td>
+<td width="500" align="left" valign="top">
+
+### 👨‍💻 **Uchiyama | Full Stack Developer**
+
+🌍 **Based in:** Tokyo, Japan 🇯🇵  
+💼 **Specializing in:** Modern Web & Mobile Development  
+🎯 **Current Focus:** Laravel ecosystem, Next.js, Flutter  
+📚 **Learning Journey:** AWS Architecture, DevOps, Clean Code  
+⚡ **Fun Fact:** I believe great UX starts with great DX  
+
+**💡 Philosophy:** *Building scalable solutions that make a difference*
+
+</td>
+</tr>
+</table>
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Frontend & Mobile
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & Database
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=user&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?username=user&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🌟 **About Me**
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+## 🎯 Current Projects & Goals
 
 <div align="center">
-
 <table>
 <tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=flutter" width="100" height="100" alt="Flutter" />
-<br><strong>Full Stack Web</strong>
-</td>
-<td width="400" align="left">
+<td width="50%" align="center">
 
-### 👋 **Hi, I'm Uchiyama!**
-🚀 **Full Stack Developer** focused on web app architecture & design
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Laravel, Next.js, React, Tailwind CSS 
-📚 **Learning:** AWS, Web Push, CI/CD, DDD  
-🎯 **Mission:** Build clean, scalable, and meaningful products  
+### 🚀 **Currently Working On**
+- 🌐 E-commerce platform with Laravel & Next.js
+- 📱 Flutter mobile app for local businesses  
+- ☁️ AWS infrastructure optimization
+- 🔧 CI/CD pipeline improvements
 
 </td>
-</tr>
-</table>
+<td width="50%" align="center">
 
-</div>
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=User's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div>
-
-## 🛠️ **Tech Stack**
-
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### 🧠 **Frontend**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-
-### 🌐 **Infrastructure / Hosting**
-<img src="https://skillicons.dev/icons?i=aws,vercel,docker,nginx,supabase" />
-
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,swagger" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
-
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,canva" />
-
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=laravel,next,react,js,php,ts,html,css,python" />
+### 🎯 **2025 Goals**
+- Master AWS Solution Architecture
+- Contribute to open source projects
+- Write technical blog posts
+- Explore AI/ML integrations
 
 </td>
 </tr>
 </table>
-
-## 🏆 **GitHub Trophies (Commits)**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
 </div>
 
-## 💭 **Random Dev Quote**
+## 💭 Developer Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark" alt="Random Dev Quote" />
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
   
-  **⭐ From [user](https://github.com/user) with ❤️**
-  
-  *"Flutter makes everything beautiful! 🦋"*
+**⭐ From [user](https://github.com/user) with ❤️ | Happy Coding! 🚀**
+
+<img src="https://komarev.com/ghpvc/?username=user&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+
 </div>
